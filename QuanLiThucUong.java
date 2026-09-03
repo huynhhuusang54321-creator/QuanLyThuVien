@@ -13,7 +13,7 @@ import View.ThucUongView;
 
 /**
  *
- * @author DELL
+ * @author DELLnhon nhacpl
  */
 public class QuanLiThucUong {
 
